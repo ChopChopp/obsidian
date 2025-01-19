@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "ba37dfbcfaf74f12",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d4e1a743842b2b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf268dbe5d1faeec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sciences/Computer Science/Data Structures/HashTablee.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HashTablee"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54e8dac16d39ea03",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4efdd9da17b2b3fb",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "743102d96b4d1fcf",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "97e9a1cdd814ad0d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "03193780f5590688",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "681d4370ff491d33",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "68397a0ab05ae811",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Bachelor/HS24/DBs/aa.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "59e1c9b1b97ed475",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Bachelor/HS24/DBs/aa.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "982992ca082316dc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Bachelor/HS24/DBs/aa.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bf268dbe5d1faeec",
+  "lastOpenFiles": [
+    "Sciences/Computer Science/Data Structures/HashTable.md",
+    "Sciences/Computer Science/Data Structures/HashTablee.md",
+    "Z_Media/hashtable_complexity.png",
+    "Z_Media/hashtable_visual.png",
+    "Z_Media/hash_collision_handling.png",
+    "Untitled.canvas",
+    "Sport/Scuba Diving/Nullzeitgrenze - no-decompression limit (NDL).md",
+    "Sport/Scuba Diving/DCS Decompression Sickness.md",
+    "Z_Media/rdp2.png",
+    "Sport/Scuba Diving/Sicherheitsstopps.md",
+    "Sport/Scuba Diving/Notfall-Dekompressionsstopps.md",
+    "Z_Media/rdp1.png",
+    "Sport",
+    "Sciences/Computer Science/Data Structures",
+    "Z_Media/Kumulative Verteilungsfunktion Diagramm.png",
+    "Z_Media/Dichtefunktion Diagramm.png",
+    "Z_Media/Kumulative Verteilungsfunktion Beschreibung.png",
+    "Z_Media/Medianhand.png",
+    "Z_Media/Median.png",
+    "Z_Media",
+    "Sport/Scuba Diving",
+    "Bachelor/HS24/Statistik/Klassierte Daten.md",
+    "Bachelor/HS24/Statistik/(CDF) Kumulative Verteilungsfunktion.md",
+    "Bachelor/HS24/DBs/aa.md",
+    "Bachelor/HS24/Statistik/(PDF) Dichtefunktion.md",
+    "Bachelor/HS24/Statistik/Median.md",
+    "Bachelor/HS24/DBs",
+    "Bachelor/HS24/Statistik/Modus.md",
+    "Bachelor/HS24/HM01/General.md",
+    "Bachelor/HS24/Statistik/Dichtefunktion (PDF).md",
+    "Bachelor/HS24/Statistik/Kumulative Verteilungsfunktion (CDF).md",
+    "Media",
+    "Untitled",
+    "Bachelor/HS24/Statistik",
+    "Sciences/Computer Science/Software Engineering/Programming Languages/Interpreted/Python/Libraries/Numpy.md",
+    "Sciences/Computer Science/Software Engineering/Programming Languages/Interpreted/Python/Python.md",
+    "Untitled.md",
+    "Sciences/Computer Science",
+    "Sciences/Mathematics"
+  ]
+}

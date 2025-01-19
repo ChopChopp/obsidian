@@ -1,0 +1,1 @@
+![[Klassifizierte Daten.png]]
