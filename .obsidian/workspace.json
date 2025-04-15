@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "ceb0825dfe41dae6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6a1c9a00bc49d5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a6c0992d3183691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Languages/Compiled/C/fork().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fork()"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f62d914633b146e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c640a04536ac6aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd9791e0a335af7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1094cbdf611099fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a72a0c1015347e0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7203324057a14ef0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4eb738c052084e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c058d12893d81fe6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Umut's brain/Bachelor/HS24/Statistik/(CDF) Kumulative Verteilungsfunktion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for (CDF) Kumulative Verteilungsfunktion"
+            }
+          },
+          {
+            "id": "2a6562b0d0435355",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Umut's brain/Bachelor/HS24/Statistik/(CDF) Kumulative Verteilungsfunktion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from (CDF) Kumulative Verteilungsfunktion"
+            }
+          },
+          {
+            "id": "dbc09067f48b7db5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c35f67c8a12903ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Umut's brain/Bachelor/HS24/Statistik/(CDF) Kumulative Verteilungsfunktion.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of (CDF) Kumulative Verteilungsfunktion"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1a6c0992d3183691",
+  "lastOpenFiles": [
+    "Umut's brain/Bachelor/HS24/Statistik/(CDF) Kumulative Verteilungsfunktion.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Languages/Compiled/C/fork().md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Languages/Compiled/C",
+    "Umut's brain/Bachelor/HS24/Statistik/Median.md",
+    "Umut's brain/Bachelor/HS24/Statistik/Klassierte Daten.md",
+    "Umut's brain/Bachelor/HS24/Statistik/(PDF) Dichtefunktion.md"
+  ]
+}
