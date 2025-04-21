@@ -6,8 +6,8 @@ The fork command effectively forks the current process into two and the return v
 
 The fork call returns either:
 
-| Value            | In Process | Description                                                                                   |
-| ---------------- | ---------- | --------------------------------------------------------------------------------------------- |
-| Negative integer | -          | Process creation failed                                                                       |
-| 0                | Child      | The child process gets returned a 0 so it knows it is the newly created process.              |
-| Positive integer | Parent     | Parent process receives the child processes process ID to know that it is the parent process. |
+| Value            | In Process | Description                                                                                     |
+| ---------------- | ---------- | ----------------------------------------------------------------------------------------------- |
+| Negative integer | -          | Process creation failed                                                                         |
+| 0                | Child      | The child process gets returned a 0 so it knows it is the newly created process.                |
+| Positive integer | Parent     | Parent process receives the child processes process ID to know that it is the parent process.2c |
