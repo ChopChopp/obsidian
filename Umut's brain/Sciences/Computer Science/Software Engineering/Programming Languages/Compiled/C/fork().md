@@ -4,7 +4,7 @@ The fork method splits the current execution of the code into a child and parent
 
 The fork command effectively forks the current process into two and the return value of the call differs between the two processes.
 
-The fork call returns either: 
+The fork call returns either:
 
 | Value            | In Process | Description                                                                                     |
 | ---------------- | ---------- | ----------------------------------------------------------------------------------------------- |
