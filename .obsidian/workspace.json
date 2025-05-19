@@ -153,10 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Umut's brain/Bachelor/HS24/Statistik/(CDF) Kumulative Verteilungsfunktion.md"
+                "file": "Umut's brain/Bachelor/FS25/WING/Kapitalwertmethode.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of (CDF) Kumulative Verteilungsfunktion"
+              "title": "Outline of Kapitalwertmethode"
             }
           },
           {
@@ -187,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4be6854283e25a6b",
+  "active": "a538e98538ef84d8",
   "lastOpenFiles": [
     "Umut's brain/Z_Media/Npvexample.png",
     "Umut's brain/Language/English.md",
