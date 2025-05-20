@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Umut's brain/Bachelor/FS25/WING/Kapitalwertmethode.md",
+                "file": "Umut's brain/Bachelor/FS25/KommunikationsTechnik/OSI/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kapitalwertmethode"
+              "title": "Untitled"
             }
           }
         ],
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Umut's brain/Bachelor/FS25/WING/Kapitalwertmethode.md",
+                "file": "Umut's brain/Bachelor/FS25/KommunikationsTechnik/OSI/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kapitalwertmethode"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -190,14 +190,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a538e98538ef84d8",
+  "active": "4be6854283e25a6b",
   "lastOpenFiles": [
+    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/Untitled.md",
+    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/OSI/Untitled.md",
+    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/OSI",
+    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/Spanning Tree Protocol.md",
+    "Umut's brain/Bachelor/FS25/WING/Kapitalwertmethode.md",
+    "Umut's brain/Bachelor/FS25/KommunikationsTechnik",
     "Umut's brain/Z_Media/Npvexample.png",
     "Umut's brain/Language/English.md",
     "Umut's brain/Language",
     "Umut's brain/Z_Media/NPV-1.png",
     "Umut's brain/Z_Media/NPV.png",
-    "Umut's brain/Bachelor/FS25/WING/Kapitalwertmethode.md",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Languages/Compiled/C/fork().md",
     "Umut's brain/Bachelor/HS24/Statistik/(CDF) Kumulative Verteilungsfunktion.md",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Languages/Compiled/C",
