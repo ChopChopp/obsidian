@@ -1,1 +1,1 @@
-![[Pasted image 20250617130714.png]]
+![[stop_and_wait.png]]
