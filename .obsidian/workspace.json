@@ -1,67 +1,53 @@
 {
   "main": {
-    "id": "ceb0825dfe41dae6",
+    "id": "13cd769f30f5d713",
     "type": "split",
     "children": [
       {
-        "id": "f6a1c9a00bc49d5c",
+        "id": "c59bd7ae1b3f9e6c",
         "type": "tabs",
         "children": [
           {
-            "id": "1a6c0992d3183691",
+            "id": "d4a13de0cef1593c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "split-diff-view",
               "state": {
-                "file": "Umut's brain/Z_Media/NPV.png"
+                "aFile": ".obsidian/plugins/obsidian-git/styles.css",
+                "bFile": ".obsidian/plugins/obsidian-git/styles.css",
+                "aRef": ""
               },
-              "icon": "lucide-image",
-              "title": "NPV"
-            }
-          },
-          {
-            "id": "4be6854283e25a6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Umut's brain/Sciences/Computer Science/Data Structures/HashTable.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HashTable"
+              "icon": "diff",
+              "title": "Diff: styles.css"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7f62d914633b146e",
+    "id": "40edbdf0e3f46c15",
     "type": "split",
     "children": [
       {
-        "id": "7c640a04536ac6aa",
+        "id": "787871e870f231e8",
         "type": "tabs",
         "children": [
           {
-            "id": "cd9791e0a335af7d",
+            "id": "0f0cff44641fb948",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "1094cbdf611099fc",
+            "id": "8220e41b2ab91f6a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +64,7 @@
             }
           },
           {
-            "id": "a72a0c1015347e0d",
+            "id": "a352541f18f389f0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,23 +77,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 300
   },
   "right": {
-    "id": "7203324057a14ef0",
+    "id": "9b12b184a13f8055",
     "type": "split",
     "children": [
       {
-        "id": "e4eb738c052084e1",
+        "id": "a7be29cf053fb66c",
         "type": "tabs",
         "children": [
           {
-            "id": "c058d12893d81fe6",
+            "id": "55a8e5f793a54af6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Umut's brain/Bachelor/HS24/Statistik/(CDF) Kumulative Verteilungsfunktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,25 +102,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for (CDF) Kumulative Verteilungsfunktion"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "2a6562b0d0435355",
+            "id": "cc158447cd25fe23",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Umut's brain/Bachelor/HS24/Statistik/(CDF) Kumulative Verteilungsfunktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from (CDF) Kumulative Verteilungsfunktion"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "dbc09067f48b7db5",
+            "id": "20d3443e6a5950a1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,22 +132,17 @@
             }
           },
           {
-            "id": "c35f67c8a12903ad",
+            "id": "4fb1f092832ae571",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Umut's brain/Sciences/Computer Science/Data Structures/HashTable.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of HashTable"
+              "title": "Outline"
             }
           },
           {
-            "id": "a538e98538ef84d8",
+            "id": "4ed1648d7887d54a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -190,44 +169,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4be6854283e25a6b",
+  "active": "4ed1648d7887d54a",
   "lastOpenFiles": [
-    "Umut's brain/Sciences/Computer Science/Data Structures/Decision Tree.md",
-    "Umut's brain/Sciences/Computer Science/Data Structures/DAG.md",
-    "Umut's brain/Sciences/Computer Science/Data Structures/Backtracking (Dame Problem).md",
-    "Umut's brain/Sciences/Physics/Electricity/Ohmsche Gesetz.md",
-    "Umut's brain/Sciences/Physics/Electromagnetism/Electromagnetism.md",
     "Umut's brain/Sciences/Physics/Electromagnetism/Photon.md",
-    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/OSI/Layer 7 Application.md",
+    "Umut's brain/Sciences/Physics/Electromagnetism/Electromagnetism.md",
+    "Umut's brain/Sciences/Physics/Electromagnetism",
+    "Umut's brain/Sciences/Physics/Cables/Koaxialkabel.md",
+    "Umut's brain/Sciences/Physics/Cables/Twisted pair.md",
+    "Umut's brain/Sciences/Physics/Cables/Fibre optic.md",
+    "Umut's brain/Sciences/Physics/Cables",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Languages/Compiled/C/Syntax.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Languages/Compiled/C/fork().md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Languages/Compiled/C/exec.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Languages/Compiled/C/Errno.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Languages/Compiled/C",
+    "Umut's brain/Language/English.md",
+    "Umut's brain/Language",
+    "index.md",
+    "Umut's brain/Z_Media/stop_and_wait.png",
+    "Umut's brain/Z_Media/Twisted pair.png",
     "Umut's brain/Z_Media/Photon.png",
+    "Umut's brain/Z_Media/Npvexample.png",
+    "Umut's brain/Z_Media/NPV.png",
+    "Umut's brain/Z_Media/NPV-1.png",
+    "Umut's brain/Z_Media/Koaxialkabel.png",
+    "Umut's brain/Z_Media/Fibreoptic.png",
     "Umut's brain/Z_Media/Emagnetism.png",
     "Umut's brain/Z_Media/Emagnet desc.png",
-    "Umut's brain/Sciences/Physics/Electromagnetism",
+    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/OSI/Layer 7 Application.md",
     "Umut's brain/Bachelor/FS25/KommunikationsTechnik/OSI/Layer 6 Presentation.md",
-    "SMPT.md",
-    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/OSI/Layer 1 Phyiscal.md",
-    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/SMTP.md",
-    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/HTTPS.md",
-    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/HTTP.md",
-    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/Spanning Tree Protocol (SPT).md",
-    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/FTP.md",
     "Umut's brain/Bachelor/FS25/KommunikationsTechnik/OSI/Layer 5 Session.md",
     "Umut's brain/Bachelor/FS25/KommunikationsTechnik/OSI/Layer 4 Transport.md",
     "Umut's brain/Bachelor/FS25/KommunikationsTechnik/OSI/Layer 3 Network.md",
     "Umut's brain/Bachelor/FS25/KommunikationsTechnik/OSI/Layer 2 Data Link.md",
-    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/OSI",
+    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/OSI/Layer 1 Phyiscal.md",
     "Umut's brain/Bachelor/FS25/WING/Kapitalwertmethode.md",
+    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/Stop and wait.md",
+    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/Spanning Tree Protocol (SPT).md",
+    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/SMTP.md",
+    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/OSI",
+    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/HTTPS.md",
+    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/HTTP.md",
+    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/FTP.md",
+    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/Drawing 2025-06-17 12.53.15.excalidraw.md",
+    "Umut's brain/Bachelor/FS25/WING",
     "Umut's brain/Bachelor/FS25/KommunikationsTechnik",
-    "Umut's brain/Z_Media/Npvexample.png",
-    "Umut's brain/Language/English.md",
-    "Umut's brain/Language",
-    "Umut's brain/Z_Media/NPV-1.png",
-    "Umut's brain/Z_Media/NPV.png",
-    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Languages/Compiled/C/fork().md",
-    "Umut's brain/Bachelor/HS24/Statistik/(CDF) Kumulative Verteilungsfunktion.md",
-    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Languages/Compiled/C",
-    "Umut's brain/Bachelor/HS24/Statistik/Median.md",
-    "Umut's brain/Bachelor/HS24/Statistik/Klassierte Daten.md",
-    "Umut's brain/Bachelor/HS24/Statistik/(PDF) Dichtefunktion.md"
+    "Umut's brain/Bachelor/FS25"
   ]
 }
