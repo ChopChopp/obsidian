@@ -11,3 +11,4 @@ Clear someone of blame or suspicion
 1. Unable to bend or be forced out of shape; not flexible.
 2. Not able to be changed or adapted.
 > Starr
+
