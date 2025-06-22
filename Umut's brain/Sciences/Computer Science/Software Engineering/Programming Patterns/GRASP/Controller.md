@@ -2,14 +2,14 @@
 A non-UI object that serves as an intermediary layer, responsible for receiving system events and delegating them to appropriate domain objects to execute business logic.
 # The problem it solves
 - **Unclear separation of concerns** between presentation layer and business logic
-- **Tigght coupling** between UI components and domain objects
+- **Tight coupling** between UI components and domain objects
 - **Bloated UI classes** that contain both presentation and business logic
 - **Difficult testing** when business logic is embedded in UI components
 - **Poor reusability** of business logic across different interfaces
 # The solution
 Create dedicated controller classes that:
 - Receive input from UI layer
-- Coordinate with domain objecs to fulfill requests
+- Coordinate with domain objects to fulfill requests
 - Handle system operations and use cases
 - Return results back to the presentation layer
 - Keep UI components focused solely on presentation concerns
