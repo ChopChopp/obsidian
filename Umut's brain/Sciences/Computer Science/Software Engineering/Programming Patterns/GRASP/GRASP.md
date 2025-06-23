@@ -9,6 +9,6 @@ Grasp is a summary of several software patterns which describe how object orient
 [[Controller]]  
 [[Polymorphism]]  
 [[Pure Fabrication]]  
-[[Indirrection]]  
+[[Indirection]]  
 ### Advanced patterns
 [[Protected Variations]]  
