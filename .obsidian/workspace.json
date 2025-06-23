@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Observer.md",
+                "file": "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Visitor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Observer"
+              "title": "Visitor"
             }
           }
         ]
@@ -170,15 +170,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f0cff44641fb948",
+  "active": "90cff36a6ae35b65",
   "lastOpenFiles": [
-    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Abstract factoryy.md",
-    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Observer.md",
-    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GRASP/Protected Variations.md",
-    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Simple Factory.md",
-    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Singleton.md",
-    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Strategy.md",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Template Method.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Strategy.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/State.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Singleton.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Simple Factory.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Proxy.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Observer.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Factory Method.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Facade.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Dependency Injection.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Decorator.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Composite.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Chain of Responsibility.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Adapter.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Abstract Factory.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Models/Class diagram.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Abstract factoryy.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GRASP/Protected Variations.md",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GRASP/Controller.md",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Models/Kommunikationsdiagramm.md",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Models/Systemsequenzdiagramm (SSD).md",
@@ -186,22 +197,11 @@
     "Umut's brain/Sciences/Computer Science/Software Engineering/Models/Domain model.md",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GRASP/Creator.md",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Visitor.md",
-    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/State.md",
-    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Proxy.md",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Models",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GRASP/Information Expert.md",
-    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GRASP/Low Coupling.md",
-    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GRASP/GRASP.md",
-    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GRASP/High Cohesion.md",
-    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GRASP/Indirrection.md",
-    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GRASP/Polymorphism.md",
-    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GRASP/Pure Fabrication.md",
-    "index.md",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GRASP",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns",
-    "Umut's brain/Sciences/Physics/Electromagnetism/Photon.md",
-    "Umut's brain/Sciences/Physics/Electromagnetism/Electromagnetism.md",
     "Umut's brain/Sciences/Physics/Electromagnetism",
     "Umut's brain/Sciences/Physics/Cables",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Languages/Compiled/C",
