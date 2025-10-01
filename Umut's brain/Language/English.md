@@ -12,3 +12,5 @@ Clear someone of blame or suspicion
 2. Not able to be changed or adapted.
 > Starr
 
+# Hitherto
+adverb until now or until the point in time under discussion: hitherto part of French West Africa, Benin achieved independence in 1960.
