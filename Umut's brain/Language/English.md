@@ -13,4 +13,4 @@ Clear someone of blame or suspicion
 > Starr
 
 # Hitherto
-adverb until now or until the point in time under discussion: hitherto part of French West Africa, Benin achieved independence in 1960.
+Adverb: until now or until the point in time under discussion: hitherto part of French West Africa, Benin achieved independence in 1960.
