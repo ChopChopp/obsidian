@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Umut's brain/Language/English.md",
+                "file": "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Languages/Compiled/Assembly/File structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "English"
+              "title": "File structure"
             }
           }
         ]
@@ -173,6 +173,9 @@
   },
   "active": "90cff36a6ae35b65",
   "lastOpenFiles": [
+    "Umut's brain/Language/English.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Languages/Compiled/Assembly/File structure.md",
+    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Languages/Compiled/Assembly",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Visitor.md",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Template Method.md",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF/Strategy.md",
@@ -197,9 +200,7 @@
     "Umut's brain/Sciences/Computer Science/Software Engineering/Models/Systemsequenzdiagramm (SSD).md",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Models/Use case.md",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Models/Domain model.md",
-    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GRASP/Creator.md",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Models",
-    "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GRASP/Information Expert.md",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GoF",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns/GRASP",
     "Umut's brain/Sciences/Computer Science/Software Engineering/Programming Patterns",
@@ -217,7 +218,6 @@
     "Umut's brain/Z_Media/Fibreoptic.png",
     "Umut's brain/Z_Media/Emagnetism.png",
     "Umut's brain/Z_Media/Emagnet desc.png",
-    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/OSI",
-    "Umut's brain/Bachelor/FS25/WING"
+    "Umut's brain/Bachelor/FS25/KommunikationsTechnik/OSI"
   ]
 }
